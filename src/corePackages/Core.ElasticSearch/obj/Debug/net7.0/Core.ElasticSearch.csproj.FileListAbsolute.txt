@@ -1,0 +1,12 @@
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\bin\Debug\net7.0\Core.ElasticSearch.deps.json
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\bin\Debug\net7.0\Core.ElasticSearch.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\bin\Debug\net7.0\Core.ElasticSearch.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.AssemblyInfo.cs
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\refint\Core.ElasticSearch.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\Core.ElasticSearch.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.ElasticSearch\obj\Debug\net7.0\ref\Core.ElasticSearch.dll

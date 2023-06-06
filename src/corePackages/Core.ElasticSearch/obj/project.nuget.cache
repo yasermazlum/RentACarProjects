@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "4fkJlwduiAgFMw8020m4p+Zu3UlZ92l2TsI1Ua4ns6XykZ17kvj6Kn9mMyUAMXzZM2YtME1EFWT7O+3lWZIGsg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yaser\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.3\\microsoft.extensions.configuration.binder.7.0.3.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\nest.jsonnetserializer\\7.17.5\\nest.jsonnetserializer.7.17.5.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\yaser\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

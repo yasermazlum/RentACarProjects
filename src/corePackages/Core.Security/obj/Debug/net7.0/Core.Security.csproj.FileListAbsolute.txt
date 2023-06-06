@@ -1,0 +1,15 @@
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.deps.json
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Security.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Persistence.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\bin\Debug\net7.0\Core.Persistence.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.AssemblyReference.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.AssemblyInfoInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.AssemblyInfo.cs
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.csproj.CopyComplete
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\refint\Core.Security.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\Core.Security.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Security\obj\Debug\net7.0\ref\Core.Security.dll

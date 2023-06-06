@@ -1,0 +1,12 @@
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.deps.json
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\bin\Debug\net7.0\Core.Mailing.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.csproj.AssemblyReference.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.AssemblyInfoInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.AssemblyInfo.cs
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.csproj.CoreCompileInputs.cache
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\refint\Core.Mailing.dll
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\Core.Mailing.pdb
+D:\Projects\DotNet\nArchitecture.RentACarProject\src\corePackages\Core.Mailing\obj\Debug\net7.0\ref\Core.Mailing.dll
