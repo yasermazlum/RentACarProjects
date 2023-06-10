@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHePB0d15Rmn+Y8qgI3Us1aN6/RGlqy3CXvC9v7o1A5ywtnfYm5OeTrs/Wg/UJEq7DIsUAcRnuDKZW8LIDoXCA==",
+  "dgSpecHash": "6R6iraU30/M9mRosiGSU5rTCIxmBVPg8TqKK8HbZ3V0FU/ZYMZA3MrNEe6NShL/LLYN0ieVlqetCgzVujvRVMQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaser\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\yaser\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",

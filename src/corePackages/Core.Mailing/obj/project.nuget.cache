@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7R7bRQDvURSuspL53/8NtWYGIdea1Ji/GuHVqz27hpSXQ9DHiAl8xEF2kErepI2iI5aimYdIaEeedYHkpqNPQ==",
+  "dgSpecHash": "2uZH3MST8TYP6UHk5trVmG0KJsAxn/x95makhgxRx7XIP3eZGOkV+1cF2hlT6h+T7HDm6qDkH6Fhu2m0hSitDg==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaser\\.nuget\\packages\\mailkit\\3.5.0\\mailkit.3.5.0.nupkg.sha512",
     "C:\\Users\\yaser\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

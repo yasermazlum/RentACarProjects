@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gh7xJ4QKTz6gvmBnS3sANDH/IWxUQ/keUu3+jGUp2MR74p3uI6k4Dt/Zs6Zwq/WpFiKjUo2v0h03FPhWaqUNNA==",
+  "dgSpecHash": "DqV6YVYT+iQ3VzaIJANfvJKWDJF9lIIxxsny0+uFKWRvDm2rXLbGxgpt41I799k6SPNLUsk5xvU8nZuSCihaHQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaser\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\yaser\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",

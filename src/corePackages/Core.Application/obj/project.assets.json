@@ -6632,11 +6632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+      "projectUniqueName": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
       "projectName": "Core.Application",
-      "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+      "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
       "packagesPath": "C:\\Users\\yaser\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\obj\\",
+      "outputPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6657,11 +6657,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj"
             }
           }
         }

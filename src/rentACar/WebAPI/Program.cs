@@ -22,6 +22,8 @@ builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddInfrastructureServices();
 builder.Services.AddHttpContextAccessor();
 
+//builder.WebHost.UseUrls("http://*:10001");
+
 TokenOptions? tokenOptions = builder.Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -83,14 +85,14 @@ builder.Services.AddSwaggerGen(opt =>
 WebApplication app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI(opt =>
     {
         opt.DocExpansion(DocExpansion.None);
     });
-}
+//}
 
 if (app.Environment.IsProduction())
     app.ConfigureCustomExceptionMiddleware();

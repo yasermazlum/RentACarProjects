@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GbTZmz3prUixzAlqHd3YmzTYNHRomOt21xOA5QW3ZjN1uQMEHDi9oNP01A5zeV3BKmqGV1TfKDSERQEDQDvtDA==",
+  "dgSpecHash": "goK6xVBm7UxuYODbxXRSSLZcERGP9QnWV6Ut2dI6aORbsim3CXidkcFSNDPgdZ+lz8ql12hpLdqui/HjyZXJ7Q==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaser\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\yaser\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

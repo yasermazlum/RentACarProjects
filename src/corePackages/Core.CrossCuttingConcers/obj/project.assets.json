@@ -6050,11 +6050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+      "projectUniqueName": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
       "projectName": "Core.CrossCuttingConcerns",
-      "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+      "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
       "packagesPath": "C:\\Users\\yaser\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+      "outputPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

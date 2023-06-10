@@ -7038,11 +7038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\rentACar\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Projects\\DotNet\\RentACarProject\\src\\rentACar\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\rentACar\\Application\\Application.csproj",
+      "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\rentACar\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\yaser\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\rentACar\\Application\\obj\\",
+      "outputPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\rentACar\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7063,23 +7063,23 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Application\\Core.Application.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Security\\Core.Security.csproj"
             },
-            "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\rentACar\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\rentACar\\Domain\\Domain.csproj"
+            "D:\\Projects\\DotNet\\RentACarProject\\src\\rentACar\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projects\\DotNet\\RentACarProject\\src\\rentACar\\Domain\\Domain.csproj"
             }
           }
         }

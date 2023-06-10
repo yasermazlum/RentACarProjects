@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFYGaEN34xo80CBLa9ay79xLcjhTm4iDvHSxCXnJ3a9s19cK7c9P0BsAUvL4VMMpgFR6ZqxG01pWGTsC4Lgv9A==",
+  "dgSpecHash": "MSJtuyFCGch2MnXXiGuZyqPFcQvh8XC8IMv2XL9KfNVY5/dzhal32dO5mXebhKZZUw9DCe8ax+FrU7kPqMkmbA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\DotNet\\nArchitecture.RentACarProject\\src\\corePackages\\Core.Test\\Core.Test.csproj",
+  "projectFilePath": "D:\\Projects\\DotNet\\RentACarProject\\src\\corePackages\\Core.Test\\Core.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yaser\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\yaser\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
