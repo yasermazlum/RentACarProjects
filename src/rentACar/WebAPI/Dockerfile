@@ -7,7 +7,7 @@ RUN dotnet restore
 
 COPY . ./
 
-RUN dotnet publish --os linux --arch x64 -c Release -o out
+RUN dotnet publish -c Debug -o out
 
 FROM mcr.microsoft.com/dotnet/runtime:7.0
 WORKDIR /app
