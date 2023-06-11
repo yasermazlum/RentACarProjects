@@ -28,7 +28,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["src/rentACar/WebAPI/WebAPI.csproj", "WebAPI/"]
+COPY . ./
 RUN dotnet restore "src/rentACar/WebAPI/WebAPI.csproj"
 COPY . .
 WORKDIR "/src/WebAPI"
