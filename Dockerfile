@@ -11,7 +11,7 @@ WORKDIR /src
 #COPY ["Infrastructure.csproj", "Infrastructure/"]
 #COPY ["Persistence.csproj", "Persistence/"]
 COPY . .
-RUN dotnet restore "WebAPI/WebAPI.csproj"
+RUN dotnet restore "src/rentACar/WebAPI/WebAPI.csproj"
 WORKDIR "/src/WebAPI"
 COPY . .
 RUN dotnet build "WebAPI.csproj" -c Release -o /app/build
