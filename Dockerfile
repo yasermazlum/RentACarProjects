@@ -14,7 +14,7 @@ COPY . .
 RUN dotnet restore "src/rentACar/WebAPI/WebAPI.csproj"
 WORKDIR "/src/rentACar/WebAPI"
 COPY . .
-RUN dotnet build "/src/rentACar/WebAPI/WebAPI.csproj" -c Release -o /app/build
+RUN dotnet build "WebAPI.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "WebAPI.csproj" -c Release -o /app/publish /p:UseAppHost=false
